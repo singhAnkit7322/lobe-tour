@@ -1,0 +1,39 @@
+nav{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 1.2rem;
+}
+.nav_link ul{
+    display: flex;
+    list-style: none;
+    gap:40px;
+    font-size: 1rem;
+    font-weight: bold;
+    color:grey;
+}
+.logo{
+    font-weight: bold;
+}
+.btn button{
+    border: none;
+    height: 48px;
+    width:129px;
+    background-color:#81CFBF;
+    color: white;
+    font-weight: bold;
+    border-radius: 100px;
+    font-size: 1.2rem;
+}
+main{
+text-align: center;
+line-height: 1rem;
+margin-top:45px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+main p{
+    color:grey;
+}
+main span{
+    color:#04ddb2;
+}
